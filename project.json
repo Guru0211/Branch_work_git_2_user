@@ -1,6 +1,6 @@
 {
-  "name": "dev1_git_branch",
-  "projectId": "7e9a24ea-f347-4f93-b203-f5a69edd559b",
+  "name": "dev2_git_branch_2",
+  "projectId": "98a55d3d-c47e-4b87-b2f0-267c1266b1bb",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "8de85484-68a7-4142-8afa-e347658e8504",
+      "uniqueId": "4f83e81b-505b-4b5f-89a5-5bcc253aec03",
       "input": [],
       "output": []
     }
